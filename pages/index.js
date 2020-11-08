@@ -14,11 +14,6 @@ export default function Home() {
           خوش آمدید <a href="http://polnet.ir">POLNET.IR!</a>
         </h1>
         <p>این یک پروژه دانشجویی برای تمرینی برابزارهای جاوااسکریپت بخصوص node.jsوفریمورک های React/nextمی باشد.</p>
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://github.com/polbadman/POLnextjs" className={styles.card}>
             <h3>مستندات پروژه &rarr;</h3>
