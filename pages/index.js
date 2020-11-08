@@ -15,13 +15,13 @@ export default function Home() {
         </h1>
         <p>این یک پروژه دانشجویی برای تمرینی بر،ابزارهای جاوااسکریپت بخصوص node.jsوفریمورک های React/nextمی باشد.</p>
         <div className={styles.grid}>
-          <a href="https://github.com/polbadman/POLnextjs" className={styles.card}>
+          <a href="https://github.com/polbadman/POLnextjs" className={styles.card style.rt}>
             <h3>مستندات پروژه &rarr;</h3>
             <p>جهت برسی مستندات پروژه کلیک بفرمایید.</p>
           </a>
-          <a href="https://github.com/polbadman/PNU_3991_AR" className={styles.card}>
+          <a href="https://github.com/polbadman/PNU_3991_AR" className={styles.card style.rt}>
             <h3>تیم پروژه &rarr;</h3>
-            <p>جهت برسی اعضاء پروژه کلیک بفرمایید.</p>
+            <p>جهت برسی رزومهء اعضاء پروژه کلیک بفرمایید.</p>
           </a>
         </div>
       </main>
