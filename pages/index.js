@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           خوش آمدید <a href="http://polnet.ir">POLNET.IR!</a>
         </h1>
-        <p>این یک پروژه دانشجویی برای تمرینی برابزارهای جاوااسکریپت بخصوص node.jsوفریمورک های React/nextمی باشد.</p>
+        <p>این یک پروژه دانشجویی برای تمرینی بر،ابزارهای جاوااسکریپت بخصوص node.jsوفریمورک های React/nextمی باشد.</p>
         <div className={styles.grid}>
           <a href="https://github.com/polbadman/POLnextjs" className={styles.card}>
             <h3>مستندات پروژه &rarr;</h3>
