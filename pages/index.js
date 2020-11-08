@@ -19,6 +19,10 @@ export default function Home() {
             <h3>مستندات پروژه &rarr;</h3>
             <p>جهت برسی مستندات پروژه کلیک بفرمایید.</p>
           </a>
+          <a href="https://github.com/polbadman/PNU_3991_AR" className={styles.card}>
+            <h3>تیم پروژه &rarr;</h3>
+            <p>جهت برسی اعضاء پروژه کلیک بفرمایید.</p>
+          </a>
         </div>
       </main>
 
