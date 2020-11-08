@@ -34,7 +34,9 @@
   justify-content: center;
   align-items: center;
 }
-
+.rt{
+  text-align: right;
+}
 .title a {
   color: #0070f3;
   text-decoration: none;
