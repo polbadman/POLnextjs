@@ -32,7 +32,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{''}
+          
           <img src="/logo.png" alt="POLNET Logo" className={styles.logo} />
         </a>
       </footer>
